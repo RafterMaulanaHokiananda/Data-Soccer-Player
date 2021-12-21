@@ -1,0 +1,23 @@
+{
+  "name": "player",
+  "version": "1.0.0",
+  "description": "Data Player Using NodeJS,Express,MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafterMaulanaHokiananda/Data-Soccer-Player.git"
+  },
+  "keywords": [
+    "node",
+    "player"
+  ],
+  "author": "Rafter Maulana Hokiananda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafterMaulanaHokiananda/Data-Soccer-Player/issues"
+  },
+  "homepage": "https://github.com/RafterMaulanaHokiananda/Data-Soccer-Player#readme"
+}
