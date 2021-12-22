@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/RafterMaulanaHokiananda/Data-Soccer-Player/issues"
   },
-  "homepage": "https://github.com/RafterMaulanaHokiananda/Data-Soccer-Player#readme"
+  "homepage": "https://github.com/RafterMaulanaHokiananda/Data-Soccer-Player#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  }
 }
